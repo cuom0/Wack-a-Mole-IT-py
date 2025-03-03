@@ -4,6 +4,7 @@
 
 ### Description
 Acchiappa la Talpa (Whack-a-Mole) is a simple yet fun game where you must hit as many moles as possible within 80 rounds. The game is built using Python and Tkinter for the graphical interface.
+The game is purely in italian, code too.
 
 ### How to Play
 1. The game starts with a countdown.
